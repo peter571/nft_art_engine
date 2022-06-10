@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0xb6dcbe5f8909980e19a989f865488fdc1d6dd6bc",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xb6dcbe5f8909980e19a989f865488fdc1d6dd6bc",
+  "NETWORK": {
+    "NAME": "Rinkeby",
+    "SYMBOL": "ETH",
+    "ID": "0x4",
+    "RPCURL": "https://rinkeby.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161",
+    "BLOCKURLS": "https://rinkey.etherscan.io",
+    "DECIMALS": 18
+  },
+  "NFT_NAME": "swag llama",
+  "COLLECTION_NAME": "swag-llama",
+  "SYMBOL": "LL",
+  "MAX_SUPPLY": 300,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/swag-llama",
+  "SHOW_BACKGROUND": true
+}
